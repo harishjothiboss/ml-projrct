@@ -6,5 +6,5 @@ tool used;
 - pandas
 - scikit-learn
 - matploylib
-- seaborn
+
 - pickel
